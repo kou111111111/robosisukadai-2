@@ -11,7 +11,8 @@ OS:Ubuntu 20.04
 # インストール方法と動かし方
 $　cd ~/catkin_ws/src
 
-$ git clone https://github.com/kou111111111/robosisukadai.2git　
+$ git clone 
+https://github.com/kou111111111/robosisukadai.2git　
 (ワークスペース）
 
 $　cd ~/catkin_ws
