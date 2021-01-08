@@ -2,15 +2,15 @@
 ロボットシステム学課題2
 
 # 解説
-https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/　にある上田先生のスライドとプログラムを参考にして開発した
-。
+https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/　
+にある上田先生のスライドとプログラムを参考にして開発した。
 
 # 環境
 OS:Ubuntu 20.04
 
 # インストール方法と動かし方
 $　cd ~/catkin_ws/src
-$ git clone https://github.com/kou111111111/robosisukadai.2git(ワークスペース）
+$ git clone https://github.com/kou111111111/robosisukadai.2git　(ワークスペース）
 $　cd ~/catkin_ws
 $　catkin_make
 $　source ~/.bashrc
