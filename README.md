@@ -12,7 +12,7 @@ OS:Ubuntu 20.04
 $　cd ~/catkin_ws/src
 
 $ git clone 
-https://github.com/kou111111111/robosisukadai.2git　
+https://github.com/kou111111111/robosisukadai-2.git　
 (ワークスペース）
 
 $　cd ~/catkin_ws
