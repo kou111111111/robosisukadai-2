@@ -38,5 +38,6 @@ count.py で出力された文字と同じ文字列がtwice.py　で出力され
 
 # 動画URL
 https://www.youtube.com/watch?v=dV57AuG6MCs
+
 # ライセンス
 GNU General Public License v3.0
