@@ -40,4 +40,4 @@ count.py で出力された文字と同じ文字列がtwice.py　で出力され
 https://www.youtube.com/watch?v=dV57AuG6MCs
 
 # ライセンス
-https://github.com/kou111111111/robosisukadai-2/blob/main/LICENSE
+
