@@ -41,4 +41,4 @@ https://www.youtube.com/watch?v=dV57AuG6MCs
 
 # ライセンス
 BSD 3-Clause "New" or "Revised" License
-
+https://github.com/kou111111111/robosisukadai-2/blob/main/LICENSE
