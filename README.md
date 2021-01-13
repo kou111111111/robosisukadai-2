@@ -24,7 +24,7 @@ $　source ~/.bashrc
 
 端末1$　cd catkin_ws/src
 
-端末2.4$ cd catkin_ws/src
+端末2$ cd catkin_ws/src
 
 端末3$ cd catkin_ws
 ```
