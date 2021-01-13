@@ -42,5 +42,5 @@ count.py で出力された文字と同じ文字列がtwice.py　で出力され
 https://www.youtube.com/watch?v=dV57AuG6MCs
 
 # ライセンス
-BSD 3-Clause "New" or "Revised" License
+BSD 3-Clause License
 
