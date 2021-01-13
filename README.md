@@ -28,9 +28,8 @@ $ source ~/.bashrc
 
 端末4$ cd catkin_ws/src 
 
-```
 
-```
+
 上の手順でインストールし、端末を用意する。
 ↓
 端末1に```roscore```と入力する。
