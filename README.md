@@ -43,7 +43,7 @@ $ source ~/.bashrc
 
 ↓
 
-端末3に``` rostopic list ```を入力し、```count```が入っているか確認し 　その後、```rostopic echo /count _up```を入力する。
+端末3に``` rostopic list ```を入力し、```count```が入っているか確認し、その後、```rostopic echo /count _up```を入力する。
 
 ↓
 
