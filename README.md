@@ -38,8 +38,16 @@ $ source ~/.bashrc
 端末1に```roscore```と入力する。
 
 ↓
+
 端末2に```chmod +x count.py```,```rosrun mypkg count.py```と入力する
 
+↓
+
+端末3に``` rostopic list ```を入力し、```count```が入っているか確認し 　その後、```rostopic echo /count _up```を入力する。
+
+↓
+
+端末4に```chmod +x twice.py``` ```rosrun mypkg twice.py``` を入力する
 # 実装機能
 count.py で出力された文字と同じ文字列がtwice.py　で出力される。
 
