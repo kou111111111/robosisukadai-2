@@ -31,10 +31,15 @@ $ source ~/.bashrc
 
 
 上の手順でインストールし、端末を用意する。
+
 ↓
+
+
 端末1に```roscore```と入力する。
+
 ↓
 端末2に```chmod +x count.py```,```rosrun mypkg count.py```と入力する
+
 # 実装機能
 count.py で出力された文字と同じ文字列がtwice.py　で出力される。
 
