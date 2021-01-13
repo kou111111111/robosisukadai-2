@@ -15,7 +15,7 @@ $ git clone
 https://github.com/kou111111111/robosisukadai-2.git　
 (ワークスペース）
 
-'''$　cd ~/catkin_ws'''
+''' $　cd ~/catkin_ws '''
 
 $　catkin_make
 
